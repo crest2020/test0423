@@ -1,11 +1,11 @@
 # test0423
 
 ### R markdown
-'''{r}
+```{r}
 print("Hello world)
-'''
+```
 
 ```{r}
-pring("hello world")
+print("hello world")
 ```
 
