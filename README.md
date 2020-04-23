@@ -1,7 +1,7 @@
 # test0423
 
 ### R markdown
-```{r}
+```{r,echo=False}
 print("Hello world)
 ```
 
