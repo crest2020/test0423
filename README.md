@@ -4,3 +4,8 @@
 '''{r}
 print("Hello world)
 '''
+
+```{r}
+pring("hello world")
+```
+
