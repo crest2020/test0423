@@ -9,3 +9,9 @@ print("Hello world)
 print("hello world")
 ```
 
+
+```{r cars}
+summary(cars)
+```
+
+
